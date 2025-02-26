@@ -1,0 +1,13 @@
+{
+  "name": "no-more-trigger-techs",
+  "version": "1.0.1",
+  "title": "No More Trigger Technologies",
+  "author": "protocol_1903",
+  "description": "Removes all trigger technologies from the game, for an experience more like 1.1",
+  "homepage": "https://discord.gg/K3fXMGVc4z",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "(?) any-planet-start"
+  ]
+}

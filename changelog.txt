@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025-02-26
+  Bugfixes:
+    - Fixed crashes when loaded with Any Planet Start in certain configurations
+    - Fixed compatability with some external and other planet mods
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-2-2
+  Features:
+    - Initial release
